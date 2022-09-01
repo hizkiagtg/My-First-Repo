@@ -4,4 +4,4 @@ NPM     : 2106750881
 
 Kelas   : A
 
-Hobi    : Makan
+Hobi    : Makan dan Tidur
